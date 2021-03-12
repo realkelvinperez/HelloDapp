@@ -1,7 +1,7 @@
 {
-  "name": "hardhat-hackathon-boilerplate",
+  "name": "HelloDapp",
   "version": "1.0.0",
-  "description": "A boilerplate repository to get you started with Hardhat and Ethereum development",
+  "description": "This is a playground where i'm learning about web3 dev",
   "directories": {
     "test": "test"
   },
@@ -29,7 +29,7 @@
     "chai": "^4.2.0",
     "ethereum-waffle": "^3.1.1",
     "ethers": "^5.0.0",
-    "hardhat": "^2.0.4",
+    "hardhat": "^2.0.7",
     "husky": "^4.2.5"
   }
 }
